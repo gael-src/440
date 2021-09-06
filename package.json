@@ -1,0 +1,25 @@
+{
+  "name": "Exercise-440-SPA-BOI-createBasicReactSiteWithoutCreateReactApp",
+  "version": "1.0.0",
+  "description": "Use Parcel to set up a simple React site, then use JSX to make a simple React page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-D01/Exercise-440-SPA-BOI-createBasicReactSiteWithoutCreateReactApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-D01/Exercise-440-SPA-BOI-createBasicReactSiteWithoutCreateReactApp/issues"
+  },
+  "homepage": "https://github.com/FbW-D01/Exercise-440-SPA-BOI-createBasicReactSiteWithoutCreateReactApp#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
